@@ -27,3 +27,24 @@ img{
     height: 500px;
 }
 
+.detail-puce{
+    color: #50d9c3;
+}
+
+h1{
+    color: #0c2e8a;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tiret{
+    width: 5%;
+    height: 2px;
+    margin-right: 100%;
+    background-color:#50d9c3;
+}
+
+.icon-section1{
+    font-size: 50px;
+    color: #50d9c3;
+}
