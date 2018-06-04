@@ -57,3 +57,15 @@ h1{
 .presentation{
     border: #f6f6f6 solid 2px;
 }
+
+.bandeau-call{
+    background-color: #081e5b !important;
+    width: 100%;
+    height: 150px;
+}
+
+.bouton{
+    font-size: 20px;
+    font-weight: bold;
+    border: solid 2px;
+}
