@@ -33,7 +33,7 @@ img{
 
 h1{
     color: #0c2e8a;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
 }
 
@@ -47,4 +47,13 @@ h1{
 .icon-section1{
     font-size: 50px;
     color: #50d9c3;
+}
+
+.image-portrait{
+    width: 75px;
+    height: 75px;
+}
+
+.presentation{
+    border: #f6f6f6 solid 2px;
 }
